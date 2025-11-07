@@ -1,7 +1,8 @@
 {
   "showDialog": true,
   "appVersionCode": 1,
-  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
+  "messageText": "We’ve made some improvements and bug fixes.  
+Please update to continue using the latest version.",
   "updateButtonText": "Update",
   "updateButtonLink": "https://t.me/MOD_7H_SIAM",
   "updateButtonGradientStartColor": "#1E88E5",
