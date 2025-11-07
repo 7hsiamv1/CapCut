@@ -1,5 +1,5 @@
 {
-  "showDialog": true,
+  "showDialog": false,
   "appVersionCode": 1,
   "messageText": "We’ve made some improvements and bug fixes.  
 Please update to continue using the latest version.",
